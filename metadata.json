@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Weaver",
+  "description": "An application to automate the book writing process. Provide a story premise, and the AI will generate a complete 10-chapter outline, detailed character arcs, and then write each chapter sequentially, ensuring continuity and adherence to the plot.",
+  "requestFramePermissions": []
+}
